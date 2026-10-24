@@ -52,4 +52,4 @@ I also learned that creative control matters. Being able to edit, turn the flair
 
 Next, I want to test with people using their own microphones, expressions, and everyday situations. I would use their feedback to improve comedic timing, preserve meaning more consistently, and make English and Chinese styles feel equally natural.
 
-Other next steps include exportable quote cards, more precise tone controls, and a hosted demo with appropriate access controls and usage limits. The guiding idea stays the same: give ordinary life a little more personality, and give the person living it the final word.
+Other next steps include exportable quote cards, more precise tone controls, and a hosted version of the full voice-and-AI experience with appropriate access controls and usage limits. The guiding idea stays the same: give ordinary life a little more personality, and give the person living it the final word.
