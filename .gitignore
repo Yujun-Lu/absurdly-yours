@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.env*
+!.env.example
+*.tsbuildinfo
+qa/local-*
+next-env.d.ts
+devpost/*.zip
+devpost/gallery/

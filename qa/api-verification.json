@@ -1,0 +1,298 @@
+{
+  "verifiedAt": "2026-10-24T21:23:16.327Z",
+  "asr": {
+    "status": 200,
+    "fixture": "synthetic 4.075s PCM16 WAV",
+    "transcript": "I had six meetings today and got no work done."
+  },
+  "results": [
+    {
+      "id": "A",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "今日赴会六场，工作未受惊扰。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "C",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "谢邀。周五宜静养，下周再约。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "D",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "今日心情微雨，已暂停对外营业。容我独自静坐，待云开雾散，再行接见四方来客。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "C-en",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "Thanks for the invite. I have formally scheduled a date with my couch this Friday; it requires absolute silence and zero movement. Next week, however, I am available to be seen in public again.",
+        "footer": ""
+      }
+    },
+    {
+      "id": "poetry",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "莫听穿林打叶声，何妨吟啸且徐行。竹杖芒鞋轻胜马，谁怕？一蓑烟雨任平生。\n\n——可惜没带伞，雨大点无所谓，主要是怕电脑淋坏。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "bulletin",
+      "status": "ok",
+      "result": {
+        "title": "关于衣物洗涤进度及单只袜子失踪案的通报",
+        "body": "今日完成三桶衣物的净化仪式，产能达标。唯有一只袜子在脱水过程中行使了独立主权，至今未归队。剩余六只成对衣物陷入存在主义焦虑。",
+        "footer": "裁定：该袜子视为已获自由身，其余衣物需签署《不歧视单身协议》方可继续穿着。"
+      }
+    },
+    {
+      "id": "award",
+      "status": "ok",
+      "result": {
+        "title": "Order of the Cleared Chair",
+        "body": "The textile pile has been successfully neutralized. The chair is once again capable of supporting a human spine without protest.",
+        "footer": ""
+      }
+    },
+    {
+      "id": "diary",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "晨间赖床，误了光阴。正午伏案，笔耕不辍。入夜以三分钟之耐心，静候一桶泡面完成其使命。",
+        "footer": ""
+      }
+    }
+  ],
+  "refinedPromptResults": [
+    {
+      "id": "C",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "谢邀。本周五居家静养，暂不对外营业；下周再约，届时重新开张。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "D",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "今日心情略沉，已开启静音模式。世界请暂且绕行，我先与安静对坐片刻。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "poetry",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "一蓑烟雨任平生，电脑不行。",
+        "footer": ""
+      }
+    },
+    {
+      "id": "bulletin",
+      "status": "ok",
+      "result": {
+        "title": "关于衣物清洗及袜子失踪案的通报",
+        "body": "三桶衣物已完成去污程序，秩序井然。唯有一只袜子在脱水离心力作用下，疑似选择独立生活，至今未归。",
+        "footer": "批示：鉴于该袜已获自由身，本处不再追索，其余衣物照常晾晒。"
+      }
+    },
+    {
+      "id": "diary",
+      "status": "ok",
+      "result": {
+        "title": "",
+        "body": "晨间睡过头，正午伏案写作业。夜食泡面一桶，静候三分钟，方得入口。",
+        "footer": ""
+      }
+    }
+  ],
+  "factualReviewResults": [
+    {
+      "id": "bulletin-review",
+      "result": {
+        "title": "关于衣物清洗及袜子失踪案的通报",
+        "body": "三桶衣物已完成去污程序，秩序井然。唯有一只袜子疑似选择独立生活，至今未归。",
+        "footer": "批示：鉴于该袜已获自由身，本处不再追索，其余衣物照常晾晒。"
+      }
+    },
+    {
+      "id": "C-review",
+      "result": {
+        "title": "",
+        "body": "谢邀。本周五居家静养，暂不对外营业；下周再约，届时重新开张。",
+        "footer": ""
+      }
+    }
+  ],
+  "routeIntegration": {
+    "asr": {
+      "status": 200,
+      "text": "I had six meetings today and got no work done."
+    },
+    "editedInput": "I had six meetings today and got no work done. I want a short break.",
+    "results": [
+      {
+        "id": "rewrite-1",
+        "status": 200,
+        "ms": 2070,
+        "title": "",
+        "body": "Six meetings convened; actual work remained undisturbed. I am requesting a brief recess to recover from my own efficiency.",
+        "footer": "",
+        "source": "live",
+        "locale": "en",
+        "mode": "rewrite",
+        "flair": 1
+      },
+      {
+        "id": "rewrite-2",
+        "status": 200,
+        "ms": 4145,
+        "title": "",
+        "body": "Six meetings consumed the day; actual work remains untouched. I require a brief intermission to reclaim my sanity.",
+        "footer": "",
+        "source": "live",
+        "locale": "en",
+        "mode": "rewrite",
+        "flair": 2
+      },
+      {
+        "id": "rewrite-3",
+        "status": 200,
+        "ms": 3980,
+        "title": "",
+        "body": "I survived six meetings and got no work done. I need a short break to recover from all that nodding.",
+        "footer": "",
+        "source": "live",
+        "locale": "en",
+        "mode": "rewrite",
+        "flair": 3
+      },
+      {
+        "id": "poetry",
+        "status": 200,
+        "ms": 3948,
+        "title": "",
+        "body": "一蓑烟雨任平生，电脑不行。",
+        "footer": "",
+        "source": "live",
+        "locale": "zh",
+        "mode": "poetry",
+        "flair": 1
+      },
+      {
+        "id": "bulletin",
+        "status": 200,
+        "ms": 5172,
+        "title": "三桶衣物清洗暨单只袜子失踪案通报",
+        "body": "今日洗净衣料三桶。然清点时发觉，袜一只凭空蒸发，去向成谜。",
+        "footer": "批示：鉴于失踪方拒绝提供不在场证明，本案暂定为‘浪漫主义式逃逸’，不予立案，继续晾晒。",
+        "source": "live",
+        "locale": "zh",
+        "mode": "bulletin",
+        "flair": 2,
+        "bulletinStyle": "bulletin"
+      },
+      {
+        "id": "award",
+        "status": 200,
+        "ms": 4234,
+        "title": "The Chair Liberation Award",
+        "body": "For the daring rescue of garments from a mountainous pile. For restoring the seat to its intended, single-purpose dignity.",
+        "footer": "",
+        "source": "live",
+        "locale": "en",
+        "mode": "bulletin",
+        "flair": 2,
+        "bulletinStyle": "award"
+      },
+      {
+        "id": "diary",
+        "status": 200,
+        "ms": 4236,
+        "title": "",
+        "body": "晨起迟，误了时辰。午后伏案，尽数献予功课。暮色四合，以三分钟为限，恭候一桶泡面苏醒。",
+        "footer": "",
+        "source": "live",
+        "locale": "zh",
+        "mode": "diary",
+        "flair": 1
+      },
+      {
+        "id": "reply",
+        "status": 200,
+        "ms": 3846,
+        "title": "",
+        "body": "谢邀。周五在家静养，暂不外出；下周再约，届时重新营业。",
+        "footer": "",
+        "source": "live",
+        "locale": "zh",
+        "mode": "reply",
+        "flair": 1
+      }
+    ],
+    "failures": {
+      "badAudio": {
+        "status": 400,
+        "error": "请重新录音。本演示支持最长 30 秒的真实单声道 16-bit PCM WAV 音频。",
+        "code": "INVALID_AUDIO"
+      },
+      "badInput": {
+        "status": 400,
+        "error": "Please check your text and options, then try again.",
+        "code": "INVALID_INPUT"
+      }
+    }
+  },
+  "finalFlairComparison": [
+    {
+      "status": 200,
+      "title": "",
+      "body": "Six meetings concluded; my actual work remains unbothered and untouched. I am taking a brief intermission to verify that gravity still applies to me.",
+      "footer": "",
+      "source": "live",
+      "locale": "en",
+      "mode": "rewrite",
+      "flair": 1
+    },
+    {
+      "status": 200,
+      "title": "",
+      "body": "Six meetings consumed the day; actual work remains blissfully unbothered. I am stepping away to let my brain’s hamster negotiate a severance package from its wheel.",
+      "footer": "",
+      "source": "live",
+      "locale": "en",
+      "mode": "rewrite",
+      "flair": 2
+    },
+    {
+      "status": 200,
+      "title": "",
+      "body": "Let the royal decree stand: six councils convened, yet no labor was performed. I hereby command a brief ceremonial intermission to restore dignity.",
+      "footer": "",
+      "source": "live",
+      "locale": "en",
+      "mode": "rewrite",
+      "flair": 3
+    }
+  ]
+}
