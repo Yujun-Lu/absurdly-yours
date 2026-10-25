@@ -6,9 +6,13 @@
 
 A voice-first playground for your wonderfully unreasonable side.
 
-**[Try the interactive sample](https://yujun-lu.github.io/absurdly-yours/)** · **[Run the full app](#quick-start)** · **[中文运行说明](docs/SETUP.zh-CN.md)**
+**[Project homepage](https://yujun-lu.github.io/absurdly-yours/)** · **[Watch the film](https://yujun-lu.github.io/absurdly-yours/#film)** · **[Run the full app](#quick-start)** · **[中文运行说明](docs/SETUP.zh-CN.md)**
 
-<img src="docs/assets/hero.png" alt="Absurdly Yours — ordinary speech, extraordinary expression" width="100%">
+<a href="https://yujun-lu.github.io/absurdly-yours/#film"><img src="docs/assets/premium-film-poster.png" alt="Watch the Absurdly Yours brand film: ordinary life, outrageously well put" width="100%"></a>
+
+**[▶ Watch the film](https://yujun-lu.github.io/absurdly-yours/#film)**
+
+<sub>66-second brand film · English narration and on-screen captions</sub>
 
 </div>
 
@@ -28,6 +32,7 @@ Its Chinese name, **骚有介事**, plays on the idea of treating tiny matters w
 
 | Where | What you can do |
 | --- | --- |
+| **[The brand film](https://yujun-lu.github.io/absurdly-yours/#film)** | Watch the narrated 66-second introduction, with music, motion and on-screen captions. |
 | **[Public interactive showcase](https://yujun-lu.github.io/absurdly-yours/)** | Explore prewritten examples in English and Chinese, switch among five modes and three flair levels, and copy a favorite. No key or microphone required. |
 | **[Full application](#quick-start)** | Run locally for real microphone capture, cloud transcription, original AI writing, editable results, favorites and system narration. Bring your own Alibaba Cloud key. |
 
